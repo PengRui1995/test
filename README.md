@@ -1,37 +1,44 @@
-## helloword
+@[toc](网易雷火武汉大学宣讲会2019年9月12日场)
+**网易雷火宣讲会小结
+雷火开发工作**
+	
 
-You can use the [editor on GitHub](https://github.com/PengRui1995/test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190912202453239.png)![在这里插入图片描述](https://img-blog.csdnimg.cn/20190912202502921.png)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+**游戏引擎：**
+	**商业引擎**：Unity（倩女幽魂手游、流星蝴蝶剑，遇见逆水寒…）
+		Unreal4（代号F+射击类游戏）
+	**自制引擎**：夜宴1.0,2.0（倩女幽魂OL系列）
+		BigBang引擎（天谕、荒野行动Plus）
+		夜焰3.0（逆水寒）
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PengRui1995/test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**技能要求**：
+**基本**：计算机相关专业、熟悉C\C++及其思想、会一门脚本语言、良好的逻辑分析能力…
+**服务器开发：**
+扎实的计算机基础知识、
+深入理解数据结构和算法
+熟悉操作系统原理
+熟悉高性能网络开发
+熟悉网络安全技术
+熟悉数据库技术
+熟悉分布式系统设计
+扎实认真、稳定、安全、实用的技术理念。
+**客户端开发：**
+了解计算机图形学相关的领域
+有UE4/Unity开发经验
+熟悉Python或Lua优先
+有一定游戏经验优先。
+**客户端引擎**
+精通计算机图形学
+了解常用图形API
+熟悉动画和物理算法
+熟悉体系结构和性能优化
+乐于尝试新的技术
+有一定的审美能力和艺术向爱好优先如摄影，绘画等。
+现场泄题
+	渲染管线是什么？
